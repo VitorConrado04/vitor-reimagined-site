@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { Mail, Github, Linkedin, Download } from "lucide-react";
+import { Mail, Github, Linkedin } from "lucide-react";
 
 export const Contact = () => {
   return (
@@ -47,16 +47,6 @@ export const Contact = () => {
                     <span className="text-sm">LinkedIn</span>
                   </Button>
                 </a>
-              </div>
-
-              <div className="text-center pt-4">
-                <Button 
-                  size="lg"
-                  className="bg-gradient-primary hover:shadow-glow transition-all hover:scale-105"
-                >
-                  <Download className="w-5 h-5 mr-2" />
-                  Download CV
-                </Button>
               </div>
             </div>
           </Card>
