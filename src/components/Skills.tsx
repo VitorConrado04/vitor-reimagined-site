@@ -1,17 +1,17 @@
 import { Card } from "@/components/ui/card";
-import { Database, Code, BarChart3, Brain, Presentation, FileSpreadsheet } from "lucide-react";
+import { Database, Code, BarChart3, Presentation, FileSpreadsheet } from "lucide-react";
 
 const skills = [
   {
     icon: Code,
     title: "Python",
-    description: "NumPy, Pandas, Scikit-learn, TensorFlow",
+    description: "NumPy, Pandas, Análise de Dados",
     color: "text-primary"
   },
   {
     icon: Database,
     title: "SQL",
-    description: "PostgreSQL, MySQL, SQLite",
+    description: "AzureSQL, MySQL, SQLite",
     color: "text-secondary"
   },
   {
@@ -21,22 +21,16 @@ const skills = [
     color: "text-primary"
   },
   {
-    icon: Brain,
-    title: "Machine Learning",
-    description: "Modelos preditivos e classificação",
-    color: "text-secondary"
-  },
-  {
     icon: Presentation,
     title: "Data Visualization",
     description: "Matplotlib, Seaborn, Plotly",
-    color: "text-primary"
+    color: "text-secondary"
   },
   {
     icon: FileSpreadsheet,
     title: "Excel",
     description: "Análise avançada e automação",
-    color: "text-secondary"
+    color: "text-primary"
   }
 ];
 
