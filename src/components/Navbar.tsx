@@ -37,6 +37,9 @@ export const Navbar = () => {
             <Button variant="ghost" onClick={() => scrollToSection("skills")}>
               Skills
             </Button>
+            <Button variant="ghost" onClick={() => scrollToSection("experiencia")}>
+              Experiência
+            </Button>
             <Button variant="ghost" onClick={() => scrollToSection("projetos")}>
               Projetos
             </Button>
