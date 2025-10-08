@@ -9,7 +9,7 @@ const experiences = [
     period: "jul de 2025 - o momento",
     duration: "4 meses",
     location: "São Paulo, Brasil · Híbrida",
-    skills: ["Google Looker Studio", "Estatística"],
+    skills: ["Google Looker Studio", "Estatística", "Análise e tratamento de dados", "Microsoft Power BI", "Capacidade analítica", "Microsoft Excel"],
   },
   {
     title: "Assistente administrativo",
