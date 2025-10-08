@@ -18,7 +18,7 @@ const experiences = [
     period: "fev de 2023 - abr de 2024",
     duration: "1 ano 3 meses",
     location: "São Paulo, Brasil",
-    skills: ["Treinamento de funcionários", "ERP (Planejamento de recursos empresariais)"],
+    skills: ["Treinamento de funcionários", "ERP (Planejamento de recursos empresariais)", "Trabalho em equipe", "Desenvolvimento de produtos", "Comunicação", "Aprendizado rápido", "Administração de escritórios", "Gestão de projetos", "Digitação", "Capacidade de organização", "Agilidade"],
   },
 ];
 
