@@ -17,10 +17,10 @@ export const About = () => {
                   Sou um amante da computação que busca explorar a capacidade de processamento das máquinas na extração de informações úteis de grandes massas de dados.
                 </p>
                 <p>
-                  Busco aplicar conceitos estatísticos, econométricos e de programação, bem como técnicas de <span className="text-primary font-semibold">Big Data Analytics</span>, <span className="text-primary font-semibold">Machine Learning</span> e <span className="text-primary font-semibold">A.I.</span> para gerar as melhores soluções para os problemas que envolvam Data Science.
+                  Busco aplicar conceitos estatísticos, econométricos e de programação, bem como técnicas de <span className="text-primary font-semibold">Big Data Analytics</span> e <span className="text-primary font-semibold">Business Intelligence</span> para gerar as melhores soluções para os problemas que envolvam Data Science.
                 </p>
                 <p>
-                  Não basta apenas produzir boas análises ou construir bons modelos preditivos se não criarmos bons gráficos. Por isso tenho um cuidado especial nas etapas de <span className="text-secondary font-semibold">visualização de dados</span> e design de dashboards para garantir que cada estudo possa elucidar as respostas que os dados podem fornecer.
+                  Não basta apenas produzir boas análises se não criarmos bons gráficos. Por isso tenho um cuidado especial nas etapas de <span className="text-secondary font-semibold">visualização de dados</span> e design de dashboards para garantir que cada estudo possa elucidar as respostas que os dados podem fornecer.
                 </p>
               </div>
 
