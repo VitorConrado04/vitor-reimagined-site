@@ -30,6 +30,13 @@ const projects = [
     tags: ["Power BI", "DAX", "Data Visualization", "Business Analytics"],
     gradient: "from-accent to-primary",
     link: "#"
+  },
+  {
+    title: "Análise da saúde mental global",
+    description: "Análise de dados globais de saúde mental em 92 países usando Python.",
+    tags: ["Python", "Pandas", "Seaborn", "Matplotlib", "Plotly Express"],
+    gradient: "from-secondary to-primary-glow",
+    link: "https://github.com/VitorConrado04/mental-health-global-analysis"
   }
 ];
 
