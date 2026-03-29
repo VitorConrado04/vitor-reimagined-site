@@ -3,6 +3,15 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 
 const experiences = [
   {
+    title: "Analista de relatórios",
+    company: "Funchal Negócios",
+    type: "Tempo integral",
+    period: "fev de 2026 - o momento",
+    duration: "2 meses",
+    location: "São Paulo, Brasil",
+    skills: ["Microsoft Excel", "Análise e construção de relatórios", "Análise de dados financeiros", "Apresentações de KPIs"],
+  },
+  {
     title: "Analista de dados",
     company: "Fidale",
     type: "Freelance",
